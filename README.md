@@ -47,9 +47,9 @@ Visit HungR Website to explore the live platform!
 HungR is continually evolving. Future enhancements include global culinary expansion, enhanced AI capabilities, community-driven features, augmented reality dining experiences, and advanced sustainability initiatives.
 
 ## Contributors
-```Sankalpa Sovan Samal
-```Sanskar Swarup Das
-```Somun Sahoo
+Sankalpa Sovan Samal ,
+Sanskar Swarup Das ,
+Somun Sahoo
 
 ## License
 This project is licensed under the MIT License.
