@@ -46,6 +46,11 @@ Visit HungR Website to explore the live platform!
 ## Future Enhancements
 HungR is continually evolving. Future enhancements include global culinary expansion, enhanced AI capabilities, community-driven features, augmented reality dining experiences, and advanced sustainability initiatives.
 
+![127 0 0 1_5500_website_index html (1)](https://github.com/sannskaarr/HungR/assets/133552464/a48cfafe-24a5-4b8a-a603-110efac05d64)
+![127 0 0 1_5500_website_about html](https://github.com/sannskaarr/HungR/assets/133552464/6fd421bb-8a9c-4448-887c-fdba0d91d7c7)
+![127 0 0 1_5500_website_contact html](https://github.com/sannskaarr/HungR/assets/133552464/2ec205c6-c36f-4351-be49-093fcc1fe84a)
+
+
 ## Contributors
 Sankalpa Sovan Samal ,
 Sanskar Swarup Das ,
