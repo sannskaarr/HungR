@@ -56,7 +56,7 @@ HungR is continually evolving. Future enhancements include global culinary expan
     </td>
     <td align="center">
       <a href="https://github.com/sannskaarr">
-        <img src="https://avatars.githubusercontent.com/sannskaar" width="100px;" alt="sannskaar"/><br />
+        <img src="https://avatars.githubusercontent.com/sannskaarr" width="100px;" alt="sannskaarr"/><br />
         <sub><b>SANSKAR SWARUP DAS</b></sub><br />
         <sub>MERN stack Developer</sub>
       </a>
