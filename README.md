@@ -32,14 +32,7 @@ To get started with HungR, follow these steps:
    ```bash
    git clone https://github.com/your-username/HungR.git
 
-2. **Install Dependencies:**
-   ```bash
-   cd HungR
-   npm install
 
-3. **Run the Application:**
-   ```bash
-   npm start
    
 Visit HungR Website to explore the live platform!
 
