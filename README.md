@@ -64,7 +64,7 @@ HungR is continually evolving. Future enhancements include global culinary expan
     <td align="center">
       <a href="https://github.com/Somunsahoo">
         <img src="https://avatars.githubusercontent.com/Somunsahoo" width="100px;" alt="@Somunsahoo"/><br />
-        <sub><b>SUMAN SAHU</b></sub><br />
+        <sub><b>SUMAN SAHOO</b></sub><br />
         <sub>Frontend Developer</sub>
       </a>
     </td>
