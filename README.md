@@ -45,9 +45,31 @@ HungR is continually evolving. Future enhancements include global culinary expan
 
 
 ## Contributors
-Sankalpa Sovan Samal ,
-Sanskar Swarup Das ,
-Somun Sahoo
+<table>
+  <tr>
+     <td align="center">
+      <a href="https://github.com/sankalpa-dot">
+        <img src="https://avatars.githubusercontent.com/sankalpa-dot" width="100px;" alt="@sankalpa-dot"/><br />
+        <sub><b>SANKALPA SOVAN SAMAL</b></sub><br />
+        <sub>Designer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sannskaarr">
+        <img src="https://avatars.githubusercontent.com/sannskaar" width="100px;" alt="sannskaar"/><br />
+        <sub><b>SANSKAR SWARUP DAS</b></sub><br />
+        <sub>MERN stack Developer</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Somunsahoo">
+        <img src="https://avatars.githubusercontent.com/Somunsahoo" width="100px;" alt="@Somunsahoo"/><br />
+        <sub><b>SUMAN SAHU</b></sub><br />
+        <sub>Frontend Developer</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## License
 This project is licensed under the MIT License.
