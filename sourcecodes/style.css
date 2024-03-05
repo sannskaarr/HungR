@@ -483,6 +483,16 @@
   
 }
 
+.checkout-background-section{
+  background-image: url('checkout.jpg'); /* Set background image for about.html */
+  background-size: cover;
+  background-attachment: fixed;
+  color: #fff; /* Text color for content on the about page */
+  padding: 80px 0; /* Adjust padding as needed */
+  opacity: 0.8;
+  
+}
+
 
 .navigation-about {
   position: absolute;
