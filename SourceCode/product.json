@@ -3,19 +3,19 @@
         "id": 1,
         "name": "Pocketly",
         "price": 1800,
-        "image": "product1.jpg"
+        "image": "../Resources/product1.jpg"
     },
     {
         "id": 2,
         "name": "Handy",
         "price": 2500,
-        "image": "product2.jpg"
+        "image": "../Resources/product2.jpg"
     },
     {
         "id": 3,
         "name": "Groupto",
         "price": 3200,
-        "image": "product3.jpg"
+        "image": "../Resources/product3.jpg"
     }
   
 ]

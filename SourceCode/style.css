@@ -424,7 +424,7 @@
   
 }
 .about-background-section-another {
-  background-image: url('chef4.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/chef4.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
@@ -434,7 +434,7 @@
 }
 
 .menu-background-section{
-  background-image: url('menu.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/menu.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
@@ -444,7 +444,7 @@
 }
 
 .subscription-background-section{
-  background-image: url('curry.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/curry.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
@@ -454,7 +454,7 @@
 }
 
 .contact-background-section{
-  background-image: url('contact.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/contact.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
@@ -464,7 +464,7 @@
 }
 
 .logsign-background-section{
-  background-image: url('login.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/login.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
@@ -474,7 +474,7 @@
 }
 
 .order-background-section{
-  background-image: url('food.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/food.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
@@ -484,7 +484,7 @@
 }
 
 .checkout-background-section{
-  background-image: url('checkout.jpg'); /* Set background image for about.html */
+  background-image: url('../Resources/checkout.jpg'); /* Set background image for about.html */
   background-size: cover;
   background-attachment: fixed;
   color: #fff; /* Text color for content on the about page */
