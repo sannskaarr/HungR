@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Pocketly",
+        "price": 1800,
+        "image": "../Resources/product1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Handy",
+        "price": 2500,
+        "image": "../Resources/product2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Groupto",
+        "price": 3200,
+        "image": "../Resources/product3.jpg"
+    }
+  
+]
