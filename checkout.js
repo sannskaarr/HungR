@@ -31,7 +31,7 @@ function addCartToHTML(){
                         <div class="price">$${product.price}/1 product</div>
                     </div>
                     <div class="quantity">${product.quantity}</div>
-                    <div class="returnPrice">$${product.price * product.quantity}</div>`;
+                    <div class="returnPrice">Rs${product.price * product.quantity}</div>`;
                 listCartHTML.appendChild(newCart);
                 totalQuantity = totalQuantity + product.quantity;
                 totalPrice = totalPrice + (product.price * product.quantity);
@@ -39,5 +39,5 @@ function addCartToHTML(){
         })
     }
     totalQuantityHTML.innerText = totalQuantity;
-    totalPriceHTML.innerText = '$' + totalPrice;
+    totalPriceHTML.innerText = 'Rs' + totalPrice;
 }
